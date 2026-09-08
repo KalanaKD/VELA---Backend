@@ -1,0 +1,6 @@
+com/vela/pos/billing/PosCheckoutFlowIT.class
+com/vela/pos/customer/CustomerServiceTest.class
+com/vela/pos/support/AbstractIntegrationTest.class
+com/vela/pos/billing/BillingServiceTest.class
+com/vela/pos/security/AuthControllerIT.class
+com/vela/pos/appointment/AppointmentTest.class

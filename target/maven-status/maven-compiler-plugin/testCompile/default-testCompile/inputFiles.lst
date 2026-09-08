@@ -1,0 +1,6 @@
+/home/kalana/IdeaProjects/VELA/src/test/java/com/vela/pos/appointment/AppointmentTest.java
+/home/kalana/IdeaProjects/VELA/src/test/java/com/vela/pos/billing/BillingServiceTest.java
+/home/kalana/IdeaProjects/VELA/src/test/java/com/vela/pos/billing/PosCheckoutFlowIT.java
+/home/kalana/IdeaProjects/VELA/src/test/java/com/vela/pos/customer/CustomerServiceTest.java
+/home/kalana/IdeaProjects/VELA/src/test/java/com/vela/pos/security/AuthControllerIT.java
+/home/kalana/IdeaProjects/VELA/src/test/java/com/vela/pos/support/AbstractIntegrationTest.java
